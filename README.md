@@ -26,7 +26,7 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src='https://gfycat.com/ifr/TightValuableFlyingfox' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
 </figure>
 <!-- blank line -->
 
@@ -42,9 +42,25 @@
 * Actors in the movie. If the user doesn't type a movie in, the program will output data for the movie Mr. Nobody
 * All artists, movies and songs are stored in log.txt file
 
+### Example:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/IlliterateValuableGecko' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
+</figure>
+<!-- blank line -->
+
+
 ## The choice do-what-it-says uses the fs Node package. LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 * It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt
+### Example:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src='https://gfycat.com/ifr/IdealisticRaggedKestrel' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
+</figure>
+<!-- blank line -->
 
 ## Getting Started
 
