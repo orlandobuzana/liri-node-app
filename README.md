@@ -22,6 +22,14 @@
 * A preview link of the song from Spotify
 * The album that the song is from If no song is provided then the program will default to "The Sign" by Ace of Base.
 
+### Example:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## OMBD movie database Shows the following information about the movie in the terminal:
 
 * Title of the movie.
