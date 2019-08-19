@@ -8,7 +8,6 @@
 * Venue location
 * Date of the Event (as "MM/DD/YYYY")
 ### Example:
-![Semantic description of image](https://gfycat.com/ifr/PoliteImpossibleHyracotherium "Image Title")
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://gfycat.com/ifr/PoliteImpossibleHyracotherium" frameborder="0" allowfullscreen="true"> </iframe>
