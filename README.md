@@ -7,6 +7,8 @@
 * Name of the venue
 * Venue location
 * Date of the Event (as "MM/DD/YYYY")
+### Example:
+https://gfycat.com/politeimpossiblehyracotherium
 
 ## Spotify This will show the following information about the song in your terminal/bash window:
 
