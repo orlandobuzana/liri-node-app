@@ -10,7 +10,7 @@
 ### Example:
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src='https://gfycat.com/ifr/PoliteImpossibleHyracotherium' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
+  <iframe src="https://gfycat.com/ifr/PoliteImpossibleHyracotherium" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 ## Spotify This will show the following information about the song in your terminal/bash window:
