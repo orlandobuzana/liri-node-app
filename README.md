@@ -10,7 +10,7 @@
 ### Example:
 <html>
   <body>
-<iframe src='https://gfycat.com/ifr/PoliteImpossibleHyracotherium' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
+Allow <iframe src='https://gfycat.com/ifr/PoliteImpossibleHyracotherium' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
   </body>
 </html>
 
