@@ -8,8 +8,9 @@
 * Venue location
 * Date of the Event (as "MM/DD/YYYY")
 ### Example:
+<html>
 <iframe src='https://gfycat.com/ifr/PoliteImpossibleHyracotherium' frameborder='0' scrolling='no' allowfullscreen width='640' height='473'></iframe>
-
+</html>
 ## Spotify This will show the following information about the song in your terminal/bash window:
 
 * Artist(s)
