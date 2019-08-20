@@ -77,7 +77,6 @@
 * axios npm module
 * node-spotify-api
 * spotify keys are saved in .env file
-* How the app works video
 
 ### Author
 Orlando Buzana
