@@ -51,9 +51,11 @@
 
 ### Example 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://youtu.be/sJr7Q-e_fwY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ### Author
 Orlando Buzana
